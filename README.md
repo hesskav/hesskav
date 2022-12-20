@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hesskav
-- 👀 I’m interested in app development, web development, game development, IoT development and machine learning
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on machine learning
+- 👀 I’m interested in app development, web development, game development, IoT development and machine learning.
+- 🌱 I’m currently learning app development.
+- 💞️ I’m looking to collaborate on machine learning.
 - 📫 Reach me through my email hesskav10@gmail.com
 
 <!---
